@@ -6,4 +6,8 @@ export class Patient {
     getName(){
         return {};
     }
+
+    getPhone(){
+        return {}
+    }
 }
