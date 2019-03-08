@@ -3,7 +3,7 @@ export class Doctor {
         return {};
     }
 
-    getName(){
+    getName1(){
         return 'yogev';
     }
 }
