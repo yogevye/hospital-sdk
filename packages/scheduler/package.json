@@ -1,5 +1,5 @@
 {
-  "name": "scheduler",
+  "name": "@yogev-tech/scheduler",
   "version": "3.0.1",
   "description": "> TODO: description",
   "author": "Yogev <yogevye1@gmail.com>",
@@ -20,5 +20,5 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "73ae4ba27792144e5d63a390893ba33c54e63168"
+  "gitHead": "f665d9bf3e8ad681e717e73328cdbb75b6c29cbe"
 }
