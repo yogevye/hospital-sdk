@@ -3,4 +3,7 @@ export class Doctor {
         return {};
     }
 
+    getName(){
+        return 'yogev';
+    }
 }
