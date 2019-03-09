@@ -1,6 +1,6 @@
 {
   "name": "@yogev-tech/doctor",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "> TODO: description",
   "author": "Yogev <yogevye1@gmail.com>",
   "homepage": "",
@@ -27,7 +27,7 @@
   },
   "gitHead": "f665d9bf3e8ad681e717e73328cdbb75b6c29cbe",
   "dependencies": {
-    "@yogev-tech/scheduler": "^3.0.3",
+    "@yogev-tech/scheduler": "^3.0.4",
     "scheduler": "^0.13.4"
   }
 }
