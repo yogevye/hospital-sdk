@@ -1,4 +1,4 @@
-export class Patient {
+export class Index {
     getId(){
         return {};
     }

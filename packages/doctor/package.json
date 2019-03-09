@@ -22,7 +22,11 @@
   },
   "scripts": {
     "tsc": "tsc",
+    "start": "node lib/index.js",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "f665d9bf3e8ad681e717e73328cdbb75b6c29cbe"
+  "gitHead": "f665d9bf3e8ad681e717e73328cdbb75b6c29cbe",
+  "dependencies": {
+    "scheduler": "^0.13.4"
+  }
 }
