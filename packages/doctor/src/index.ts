@@ -1,2 +1,2 @@
-import {hello} from '@yogev-tech/scheduler'
-console.log(`success: ${hello}`);
+//import {hello} from '@yogev-tech/scheduler'
+console.log(`success: `);
