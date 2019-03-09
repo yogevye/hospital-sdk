@@ -1,6 +1,6 @@
 {
   "name": "@yogev-tech/grocery",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "> TODO: description",
   "author": "Yogev <yogevye1@gmail.com>",
   "homepage": "https://github.com/yogevye/hospital-sdk#readme",
@@ -29,8 +29,8 @@
     "url": "https://github.com/yogevye/hospital-sdk/issues"
   },
   "dependencies": {
-    "@yogev-tech/apple": "^3.0.7",
-    "@yogev-tech/banana": "^3.0.7",
+    "@yogev-tech/apple": "^3.0.8",
+    "@yogev-tech/banana": "^3.0.8",
     "sillyname": "0.1.0"
   }
 }
