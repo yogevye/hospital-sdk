@@ -27,6 +27,7 @@
   },
   "gitHead": "f665d9bf3e8ad681e717e73328cdbb75b6c29cbe",
   "dependencies": {
+    "@yogev-tech/scheduler": "^3.0.3",
     "scheduler": "^0.13.4"
   }
 }
