@@ -1,2 +1,2 @@
-let hello:string = 'hello';
+let hello:string = 'hello2';
 export {hello};

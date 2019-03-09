@@ -4,9 +4,10 @@
   "devDependencies": {
     "@types/node": "^11.10.5",
     "lerna": "^3.13.1",
-    "typescript": "^3.3.3333"
+    "typescript": "^3.3.3333",
+    "jest": "^24.3.1"
   },
-  "scripts":{
+  "scripts": {
     "publish": "lerna run tsc && lerna publish"
   }
 }
