@@ -1,5 +1,5 @@
 {
-  "name": "@yogev-tech/pple",
+  "name": "@yogev-tech/apple",
   "version": "3.0.5",
   "description": "> TODO: description",
   "author": "Yogev <yogevye1@gmail.com>",
@@ -21,6 +21,7 @@
     "url": "git+https://github.com/yogevye/hospital-sdk.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {

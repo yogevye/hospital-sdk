@@ -21,12 +21,15 @@
     "url": "git+https://github.com/yogevye/hospital-sdk.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/yogevye/hospital-sdk/issues"
   },
   "dependencies": {
+    "@yogev-tech/apple": "^3.0.5",
+    "@yogev-tech/banana": "^3.0.5",
     "sillyname": "0.1.0"
   }
 }

@@ -21,6 +21,7 @@
     "url": "git+https://github.com/yogevye/hospital-sdk.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
